@@ -41,4 +41,4 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-Laura is born in Galati, Romania. She often can be spotted driving a 4Runner on the highways of Washington D.C.
+Laura is an American tourist born in Romania. These days, she can often can be spotted driving a 4Runner on the highways of Washington D.C. wearing some fancy sunglasses. Most often she is the company of Monsieur Bipin, a respected member of the high-class society.
