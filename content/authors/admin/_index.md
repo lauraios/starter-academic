@@ -26,9 +26,9 @@ social:
 education:
   courses:
     - institution: University of Edinburgh
-      course: BSc Mathematics
+      course: BSc Division
       year: 2013
-    - course: M.A. Mathematics
+    - course: M.A. Multiplication
       institution: University of Maryland
       year: 2016
 user_groups:
@@ -37,4 +37,4 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-Laura is an American tourist born in Romania. These days, she can often can be spotted driving on the highways of Washington D.C. testing the patience of American drivers  Most often she is the company of Monsieur Bipin, a respected member of the high-class society.
+Laura is an American tourist born in Romania. These days, she can often can be spotted driving on the highways of Washington D.C. testing the patience of American drivers.  Most often she is the company of Monsieur Bipin, a respected member of the high-class society.
