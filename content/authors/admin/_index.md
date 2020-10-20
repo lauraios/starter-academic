@@ -9,7 +9,7 @@ authors:
   - admin
 bio: My interests include smelling flowers
 interests:
-  - Thinking
+  - Napping
 social:
   - icon: envelope
     icon_pack: fas
