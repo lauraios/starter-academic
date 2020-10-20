@@ -1,5 +1,5 @@
 ---
-title: Laura Cori
+title: Laura
 role: Alien
 avatar_filename: ""
 organizations:
