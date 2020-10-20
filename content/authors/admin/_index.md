@@ -1,12 +1,13 @@
 ---
+title: Laura Cori
+role: Professor of Artificial Intelligence
+avatar_filename: 2020-10-15t17_16_26.562z-1-.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Laura Cori
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
