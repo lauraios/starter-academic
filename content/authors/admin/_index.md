@@ -1,14 +1,13 @@
 ---
 title: Laura Cori
 role: Alien
-avatar_filename: 2020-10-15t17_16_26.562z-1-.jpg
+avatar_filename: ""
 organizations:
   - name: Planet Math
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My interests include smelling flowers
 interests:
   - Bipin
 social:
