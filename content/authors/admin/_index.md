@@ -29,12 +29,12 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - institution: University of Edinburgh
       course: BSc Mathematics
       year: 2013
+    - course: M.A. Mathematics
+      institution: University of Maryland
+      year: 2014
 user_groups:
   - Researchers
   - Visitors
