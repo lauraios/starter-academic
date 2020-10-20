@@ -1,6 +1,6 @@
 ---
 title: Laura Cori
-role: Professor of Artificial Intelligence
+role: Alien
 avatar_filename: 2020-10-15t17_16_26.562z-1-.jpg
 organizations:
   - name: Stanford University
@@ -11,9 +11,7 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bipin
 social:
   - icon: envelope
     icon_pack: fas
