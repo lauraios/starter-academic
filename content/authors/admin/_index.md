@@ -3,8 +3,7 @@ title: Laura Cori
 role: Alien
 avatar_filename: 2020-10-15t17_16_26.562z-1-.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Planet Math
 superuser: true
 authors:
   - admin
