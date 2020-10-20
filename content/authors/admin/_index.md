@@ -30,7 +30,7 @@ education:
       year: 2013
     - course: M.A. Mathematics
       institution: University of Maryland
-      year: 2015
+      year: 2016
 user_groups:
   - Researchers
   - Visitors
